@@ -53,5 +53,5 @@ h1 {
   text-decoration: none;
   display: block;
 }
-.dropdown-content a:hover {background-color: #7f1616}
+.dropdown-content a:hover {background-color: white}
 .show {display:block;}
