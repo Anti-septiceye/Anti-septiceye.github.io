@@ -16,11 +16,8 @@ h1 {
   font-family: "Merriweather", serif;
   font-size: 32px;
   text-align: center;
-  border-style: solid;
-  border-color: #ab1e1e;
-  border-radius: 8px;
-  background-color: #ab1e1e;
-  border: 15px;
+  text-decoration: none;
+  color: white;
 }
 .button {
   background-color: white;
@@ -55,3 +52,12 @@ h1 {
 }
 .dropdown-content a:hover {background-color: white}
 .show {display:block;}
+
+#header{
+  width: 101%;
+  height: 69px;
+  background-color: #ab1e1e;
+  margin: -9px;
+  position: fixed;
+  right: 0px;
+}
